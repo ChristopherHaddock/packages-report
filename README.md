@@ -7,3 +7,5 @@ New change
 Yet Another Change
 
 This is awesome
+
+I love using git
